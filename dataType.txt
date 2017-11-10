@@ -1,0 +1,29 @@
+Value / Data 
+Variables
+Data Types
+    Primary Data Types
+        Intgers - int 
+            will use 2 bytes
+        Characters = char 
+            char will use 1 bytes
+
+        Decimals - float 
+            will use 4 bytes
+
+        double
+            similar to float
+            will hold int and and float but hold a large Value
+            will use 8 bytes
+
+        void
+            means empty or null 
+            uses 0 bytes 
+
+    Secondary Data Type 
+        Array
+        Pointer
+        String
+        Structure
+        Union
+        Enumeration 
+
