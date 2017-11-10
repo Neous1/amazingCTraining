@@ -1,5 +1,9 @@
 Value / Data 
 Variables
+
+always start with a Characters
+can be global or local
+
 Data Types
     Primary Data Types
         Intgers - int 
@@ -27,3 +31,23 @@ Data Types
         Union
         Enumeration 
 
+Constants
+    declared with global variables 
+    Numeric
+        Integers
+            Decimal 
+                0-9
+
+            Octal
+                0-7
+                always start with a zero
+
+            Hexa Decimal
+                0-9 a-f 
+
+        Real
+    Character
+        Single Character
+            'a' 'c'
+        strings 
+            "Yvon" "Joel"
