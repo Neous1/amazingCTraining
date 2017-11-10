@@ -82,3 +82,32 @@ Operator
 
      a = 101;
      b = 101;
+
+
+Operator 2
+
+     & - And 
+     | - or
+     ^ - Exclusive  or
+     << - Left
+     >> - Right
+
+     Special Operators
+
+     , comma
+     sizeof 
+
+Advanced operators
+     & * . ->  
+
+     int a = 100;
+     c = sizeof(a);
+     c = 2;  // 2 bytes
+
+     int a; 
+     int b; 
+     int a, be
+     
+
+
+
