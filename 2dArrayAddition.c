@@ -13,17 +13,17 @@ int main(void){
     printf("Please enter number for first 3x3 matrix \n");
     for (i =0; i<3; i++){
         for (j=0; j<3; j++){
-            scanf("%d", &a[i][i]); //show input at memory address of that position.
+            scanf("%d", &a[i][j]); //show input at memory address of that position.
         }
-        // printf("\n");
+        printf("\n");
     }
 
     printf("Please enter number for 2nd 3x3 matrix \n");
     for (i =0; i<3; i++){
         for (j=0; j<3; j++){
-            scanf("%d", &b[i][i]); //show input at memory address of that position.
+            scanf("%d", &b[i][j]); //show input at memory address of that position.
         }
-        // printf("\n");
+        printf("\n");
     }    
     printf("and the result is \n");
     for (i =0; i<3; i++){
