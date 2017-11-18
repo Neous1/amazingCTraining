@@ -32,6 +32,7 @@ int main(void){
             printf("%d \t", c[i][j]);
         }
     printf("\n");
+    printf("\n");
 
     }  
 }
